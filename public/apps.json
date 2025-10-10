@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031",
+    "title": "AstroExplorer",
+    "companyName": "Galactic Software Inc.",
+    "id": 101,
+    "description": "Embark on an incredible journey through the cosmos right from your device with **AstroExplorer**. This application delivers stunning high-resolution images of planets, stars, galaxies, nebulae, and other deep-space objects, making the universe accessible to everyone. It features a fully **interactive star map** that uses your device's location to show the night sky in real-time, helping you easily identify constellations and celestial bodies. Whether you are an astronomy novice or a seasoned stargazer, AstroExplorer provides detailed information and rich context for every object you discover. Regular updates ensure you have access to the latest astronomical findings and breathtaking new images from professional observatories. Dive into the mysteries of space and expand your knowledge of the universe with this essential educational tool.",
+    "size": "75MB",
+    "reviews": "1520K",
+    "ratingAvg": 4.6,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "title": "RecipeGenius",
+    "companyName": "Culinary Creations Ltd.",
+    "id": 102,
+    "description": "**RecipeGenius** is your ultimate kitchen companion, offering an extensive library of delicious recipes from around the globe to inspire your next meal. The app simplifies cooking with clear, **step-by-step instructions** and integrated **cooking timers** to ensure perfect results every time. Easily search and filter recipes based on ingredients, dietary restrictions (like vegan or gluten-free), cuisine type, or preparation time. You can save your favorite recipes for quick access, organize them into custom collections, and even share your culinary discoveries with friends and family. The built-in shopping list feature automatically compiles necessary ingredients from your chosen recipes, making grocery trips a breeze. Elevate your home cooking with RecipeGenius and explore a world of flavors.",
+    "size": "43MB",
+    "reviews": "980K",
+    "ratingAvg": 4.2,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28",
+    "title": "ProductivityFlow",
+    "companyName": "Focus Apps Co.",
+    "id": 103,
+    "description": "**ProductivityFlow** is designed to maximize your efficiency and help you regain control of your day. This powerful tool combines **task management**, **time tracking**, and seamless **calendar synchronization** into one coherent system. You can create detailed to-do lists, set deadlines, and prioritize tasks using the intuitive interface. The integrated Pomodoro timer and real-time activity logging help you stay focused and understand exactly where your time is being spent. By syncing with major calendar platforms, all your appointments, meetings, and tasks are consolidated in one place, preventing double bookings and missed deadlines. Perfect for professionals and students, ProductivityFlow ensures you achieve your goals with minimal distraction and maximum focus.",
+    "size": "30MB",
+    "reviews": "2100",
+    "ratingAvg": 4.8,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+    "title": "FitnessTrackerPro",
+    "companyName": "HealthTech Solutions",
+    "id": 104,
+    "description": "**FitnessTrackerPro** is the comprehensive app for monitoring and advancing your health and fitness journey. It accurately **tracks your workouts**, including running, cycling, and gym sessions, using GPS and motion sensors. The app allows you to **monitor your heart rate** (when paired with a compatible device) and track vital statistics like calories burned and distance covered. Set **personalized fitness goals**—from weight loss to marathon training—and monitor your progress with detailed charts and reports. The app also offers a library of guided workout routines for all fitness levels. Stay motivated with achievements, progress visualization, and optional integration with social platforms to share your milestones. Achieve your optimal health with FitnessTrackerPro.",
+    "size": "60MB",
+    "reviews": "350K",
+    "ratingAvg": 3.9,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 80 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=600&q=80",
+    "title": "SketchPad Deluxe",
+    "companyName": "Artistic Tools Inc.",
+    "id": 105,
+    "description": "**SketchPad Deluxe** is the premier **digital drawing app** built for artists, designers, and creative hobbyists. It provides a robust set of professional-grade tools, including a wide array of customizable **brushes** that mimic traditional media like oils, watercolors, and pencils. The app features advanced support for **layers**, allowing you to create complex artwork, manage different elements separately, and experiment without permanent changes. A sophisticated **color palette** system and precise color pickers give you unlimited control over hues and shades. Whether you are sketching ideas, painting masterpieces, or designing concepts, SketchPad Deluxe offers an intuitive and responsive environment on both tablets and smartphones. Unleash your artistic potential with its powerful features.",
+    "size": "88MB",
+    "reviews": "1200K",
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
+    "title": "LanguageLearner Go",
+    "companyName": "Polyglot Education",
+    "id": 106,
+    "description": "**LanguageLearner Go** makes mastering new languages **quick and highly efficient** through its innovative, interactive methodology. The app offers comprehensive courses for dozens of languages, utilizing bite-sized, gamified **lessons and games** that keep learners engaged and motivated. Focus on practical communication skills, including speaking, listening, reading, and writing, with real-time feedback. Advanced speech recognition technology helps you perfect your pronunciation, while continuous progress tracking ensures you meet your learning goals. The curriculum covers essential vocabulary, grammar, and conversational phrases for travelers, students, and professionals alike. Start your journey to fluency today and unlock global opportunities with LanguageLearner Go.",
+    "size": "95MB",
+    "reviews": "2500K",
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1680 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "title": "PhotoFilter Magic",
+    "companyName": "Digital Imaging Studio",
+    "id": 107,
+    "description": "**PhotoFilter Magic** provides instant, professional-grade photo editing right at your fingertips. Transform your ordinary photos into stunning masterpieces by applying a vast collection of high-quality **filters and effects**. Beyond simple presets, you can make precise **adjustments** to brightness, contrast, saturation, exposure, and color temperature using powerful manual control sliders. The app includes advanced tools for cropping, rotating, and straightening images, as well as features for selective editing. Its user-friendly interface makes complex editing simple and fast, allowing you to achieve a polished look in seconds. Share your beautifully enhanced photos directly to social media and enjoy the magic of digital imaging.",
+    "size": "55MB",
+    "reviews": "1800",
+    "ratingAvg": 4.1,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1",
+    "title": "TravelGuide Global",
+    "companyName": "Wanderlust Apps",
+    "id": 108,
+    "description": "**TravelGuide Global** is the essential resource for travelers, providing reliable information and navigation tools for any destination worldwide. The core feature is its comprehensive **offline maps**, allowing you to navigate confidently without worrying about data roaming charges or poor connectivity. The app includes meticulously curated **detailed city guides** with information on popular attractions, historical sites, dining options, and local transportation. Benefit from exclusive **local tips** and insider advice to make your experience authentic and memorable. Whether you're planning a trip to a major metropolitan area or an off-the-beaten-path adventure, TravelGuide Global ensures you have all the necessary information, making travel stress-free and enjoyable.",
+    "size": "102MB",
+    "reviews": "600K",
+    "ratingAvg": 4.4,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "Data Analyzer Pro",
+    "companyName": "BizLogic Software",
+    "id": 109,
+    "description": "**Data Analyzer Pro** is the sophisticated tool designed for business intelligence, academic research, and personal data management. It allows users to effortlessly **visualize and analyze large datasets** with speed and accuracy. The app supports importing data from various sources and provides a suite of advanced statistical functions. Create compelling and informative **custom charts** and graphs, including bar charts, scatter plots, and heat maps, to uncover hidden trends and patterns. The integrated **reporting features** enable you to generate professional summaries and share your findings easily. Whether you're a data scientist, a student, or a business manager, Data Analyzer Pro helps you transform raw data into actionable insights.",
+    "size": "65MB",
+    "reviews": "700K",
+    "ratingAvg": 4.5,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1509223197845-458d87318791?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "TuneMaster",
+    "companyName": "Rhythm Flow Inc.",
+    "id": 110,
+    "description": "**TuneMaster** is the all-in-one music education app for aspiring musicians and seasoned professionals. It offers comprehensive, **interactive lessons** designed to help you **learn to play various instruments**, from guitar and piano to drums and violin. Beyond performance, the app includes tools for **composing music**, allowing you to write, arrange, and edit your own tracks. Enhance your musical timing with dedicated features to **practice rhythm**, including metronomes and rhythm games. The curriculum caters to all skill levels, featuring video tutorials, sheet music, and ear training exercises. Unlock your musical creativity and elevate your skills with the professional and engaging environment of TuneMaster.",
+    "size": "105MB",
+    "reviews": "1900K",
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "Weather Wiz",
+    "companyName": "SkyCast Systems",
+    "id": 111,
+    "description": "**Weather Wiz** delivers the most **accurate hyperlocal weather forecasts** to keep you prepared for any condition. Utilizing state-of-the-art meteorological models, the app provides minute-by-minute precipitation forecasts and hourly updates for your precise location. It includes dynamic, **real-time radar maps** to track storms, rain, and snow movement, ensuring you're never caught off guard. Critical **severe weather alerts** are delivered instantly to protect you and your family. View 7-day forecasts, temperature changes, wind speed, humidity, and air quality index in a beautifully designed, easy-to-read interface. Weather Wiz is the reliable, essential tool for planning your day, your weekend, or your next big adventure.",
+    "size": "28MB",
+    "reviews": "3200K",
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "Quiz Master World",
+    "companyName": "Trivia Titans",
+    "id": 112,
+    "description": "Challenge your knowledge and have fun with **Quiz Master World**, the definitive trivia game. Featuring **thousands of trivia questions** across a vast array of categories—including history, science, pop culture, sports, and geography—there's always something new to learn. You can **play solo** to test your own limits or challenge friends and players worldwide in engaging multiplayer modes. Track your global ranking and earn achievements as you master each category. The game updates regularly with fresh question packs, ensuring endless hours of brain-teasing entertainment. Perfect for casual players and hardcore trivia enthusiasts alike, Quiz Master World is the ultimate way to learn new facts and compete against others.",
+    "size": "32MB",
+    "reviews": "2800K",
+    "ratingAvg": 4.0,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "SecureChat Messenger",
+    "companyName": "Privacy First Comms",
+    "id": 113,
+    "description": "**SecureChat Messenger** is the communication platform built on the principle of absolute privacy. It offers **end-to-end encrypted messaging**, ensuring that only you and the person you are communicating with can read what is sent. Advanced security features include **self-destructing messages** that automatically vanish after being viewed, and fully **secure calls** that utilize the same encryption protocols. The app does not store metadata or user activity, providing a truly private chat experience. Ideal for sensitive communications, SecureChat Messenger offers peace of mind with robust security and a clean, intuitive interface. Communicate freely, knowing your conversations are protected from interception.",
+    "size": "60MB",
+    "reviews": "1700K",
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
+    "title": "SecureChat Messenger",
+    "companyName": "Privacy First Comms",
+    "id": 114,
+    "description": "**SecureChat Messenger** is the communication platform built on the principle of absolute privacy. It offers **end-to-end encrypted messaging**, ensuring that only you and the person you are communicating with can read what is sent. Advanced security features include **self-destructing messages** that automatically vanish after being viewed, and fully **secure calls** that utilize the same encryption protocols. The app does not store metadata or user activity, providing a truly private chat experience. Ideal for sensitive communications, SecureChat Messenger offers peace of mind with robust security and a clean, intuitive interface. Communicate freely, knowing your conversations are protected from interception.",
+    "size": "60MB",
+    "reviews": "1700K",
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "VR Experience Hub",
+    "companyName": "Immersive Worlds Inc.",
+    "id": 115,
+    "description": "Step into new realities with **VR Experience Hub**, your gateway to a vast, **curated library of the best virtual reality** content available. This app offers a seamless collection of top-rated VR games, from action-packed adventures to relaxing simulations, catering to every taste. Beyond gaming, it hosts a wealth of **educational experiences**, allowing you to explore historical sites, the deep sea, or even the human body in a fully immersive environment. The Hub constantly updates its content, ensuring you always have access to the newest and most engaging VR experiences. Compatibility with all major VR headsets makes it a universal starting point for your virtual journey. Dive into immersive worlds and redefine your entertainment.",
+    "size": "180MB",
+    "reviews": "900K",
+    "ratingAvg": 4.3,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "title": "Cosmic Voyager",
+    "companyName": "StarGazer Labs",
+    "id": 116,
+    "description": "**Cosmic Voyager** provides a powerful and beautiful way to connect with the night sky. This **interactive guide** uses augmented reality to overlay star names, constellations, and celestial paths onto your camera view in real-time. Simply point your device up to easily **identify stars, planets, and constellations**. The app includes detailed information about thousands of astronomical objects, including their distance, history, and mythology. Its precise tracking is perfect for both amateur astronomers and casual observers. Plan your stargazing sessions with the visibility calendar for planets and meteor showers. Cosmic Voyager transforms your view of the night sky into an educational and awe-inspiring experience.",
+    "size": "95MB",
+    "reviews": "3100K",
+    "ratingAvg": 4.7,
+    "downloads": 85,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2150 }
+    ]
+  }
+]

@@ -21,6 +21,10 @@ const Apps = () => {
 
   return (
     <div>
+    <title>Apps</title>
+    <meta name="Apps"
+      content="all apps, new apps"
+    />
       <div className="py-16">
         <div className="flex justify-center items-center gap-3.5">
           <h2 className="text-4xl font-bold text-center  flex justify-center gap-3 text-gray-600">

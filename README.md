@@ -1,19 +1,32 @@
- Hero App -- productivity app company
+# Hero App -- productivity app company
 
-📝 Description
+## Demo / Live version  
+[A live demo is hosted here](https://hero-app-productivity-app-company.netlify.app/) — click to try Hero App in your browser.  
 
-Hero App is a modern React web application that allows users to explore, search, and manage apps interactively. Users can view app details, ratings, and download statistics, as well as install or uninstall apps using local storage.
+## 📝 Description
 
-💻 Technologies Used
+Hero App is a modern React-based web application that lets users explore, search, and manage a collection of apps interactively. Users can view app details, ratings, download statistics, and “install/uninstall” apps (using local storage). It aims to simulate an app-store-like experience where one can browse and manage apps.
 
-React.js – Front-end JavaScript library for building user interfaces
+## 💻 Technologies Used
 
-Tailwind CSS – Utility-first CSS framework for responsive styling
+- React.js – Front-end JavaScript library for building user interfaces
 
-Recharts – Data visualization library for charts and graphs
+- Tailwind CSS – Utility-first CSS framework for responsive styling
 
-Axios – Promise-based HTTP client for API requests
+- Recharts – Data visualization library for charts and graphs
 
-React Router – Client-side routing for page navigation
+- Axios – Promise-based HTTP client for API requests
 
-React Toastify – Notification library for success/error toasts
+- React Router – Client-side routing for page navigation
+
+- React Toastify – Notification library for success/error toasts
+
+## Features
+- View app details (e.g. rating, download stats, description — depending on data)
+- “Install” apps — add them to local storage to simulate installation
+- “Uninstall” apps — remove from local storage
+- app searching features
+- Responsive UI (works on desktop / mobile) via Tailwind CSS
+- Charts/graphs to show download statistics or other visual data (using Recharts)
+- Client-side routing to manage navigation between pages (React Router)
+- In-app notifications for user actions via Toastify

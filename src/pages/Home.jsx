@@ -6,7 +6,7 @@ import googlePlay from "../assets/google-play-store-transparent-google-play-icon
 import Appstore from "../assets/images.jpg";
 
 import BannerImg from "../assets/hero.png";
-import { Link } from "react-router";
+import { Link, Meta } from "react-router";
 import { TrendingUp } from "lucide-react";
 import LoadingSpinner from "../components/loadingSpinner";
 
@@ -25,6 +25,9 @@ const Home = () => {
   }
   return (
     <div className="">
+    <title>HOME</title>
+    <meta name="HOME" content="new, portfolio" />
+
       <div className="hero bg-base-300 pt-10 pb-0 mb-0 flex flex-col items-center text-center ">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">
